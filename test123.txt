@@ -1,0 +1,13 @@
+0-shipment-shipment
+0-gold-gold
+0-delivered-delivered
+0-fire-fire
+1-delivery-delivery
+1-silver-silver
+1-silver-silver
+1-arrived-arrived
+1-truck-truck
+2-shipment-shipment
+2-gold-gold
+2-arrived-arrived
+2-truck-truck
